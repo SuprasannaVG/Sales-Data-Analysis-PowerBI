@@ -1,6 +1,9 @@
 # Sales-Data-Analysis-PowerBI
 
-# skills : Data analysis, Excel , PowerBI, Power Query.
+# Skills : Data analysis, Excel , PowerBI, Power Query.
+
+![Screenshot 2024-03-25 160922](https://github.com/SuprasannaVG/Sales-Data-Analysis-PowerBI/assets/125822020/7db6d632-447a-4280-8530-4e0c31dd49e0)
+
 # Introduction:
 Sales data analysis is a crucial component of business intelligence, providing insights into sales trends, customer behavior, and revenue generation strategies. Leveraging skills in data analysis, Excel, PowerBI, and Power Query, this project aims to extract actionable insights from a real sales dataset. By combining analytical techniques with powerful visualization tools, such as PowerBI, businesses can gain a deeper understanding of their sales performance and make informed decisions to drive growth and profitability.
 
@@ -9,6 +12,9 @@ For this project, a real sales dataset is utilized, containing comprehensive inf
 
 # Implementation:
 The implementation involves several steps, starting with data preprocessing and cleansing using Excel and Power Query to ensure data accuracy and consistency. Subsequently, PowerBI is employed to import, transform, and visualize the sales data, creating interactive dashboards and reports. Utilizing advanced analytical features, such as DAX (Data Analysis Expressions) in PowerBI, enables the calculation of key metrics like sales growth, customer retention rates, and profitability. The insights gleaned from this analysis provide stakeholders with actionable information to optimize sales strategies, streamline operations, and enhance customer satisfaction.
+![Screenshot 2024-03-25 161020](https://github.com/SuprasannaVG/Sales-Data-Analysis-PowerBI/assets/125822020/250a01da-1ca1-4b71-a6b9-2c75d16e7ada)
+
+![Screenshot 2024-03-25 161137](https://github.com/SuprasannaVG/Sales-Data-Analysis-PowerBI/assets/125822020/ffbc9f9c-bd2b-42ec-a9ac-502055a34528)
 
 # Advantages:
 1. Enhanced Decision-Making: By leveraging data analysis and visualization tools, businesses can make data-driven decisions backed by insights derived from the sales dataset.
